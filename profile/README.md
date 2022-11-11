@@ -27,6 +27,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**awawa42**](https://github.com/awawa42)
 #### Dev Front End:
 * [**dopaemon**](https://github.com/dopaemon)
+* [**vaxilu**](https://github.com/vaxilu)
+* [**hossinasaadi**](https://github.com/hossinasaadi)
 * [**proshir**](https://github.com/proshir)
 #### Dev Shell Script Language:
 * [**shekhawat2**](https://github.com/shekhawat2)
