@@ -30,6 +30,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**vaxilu**](https://github.com/vaxilu)
 * [**hossinasaadi**](https://github.com/hossinasaadi)
 * [**proshir**](https://github.com/proshir)
+#### Dev Xray Core Custom:
+* [**hossinasaadi**](https://github.com/hossinasaadi)
+* [**XTLS Team**](https://github.com/XTLS/Xray-core)
 #### Dev Shell Script Language:
 * [**shekhawat2**](https://github.com/shekhawat2)
 #### Dev X-UI Language:
