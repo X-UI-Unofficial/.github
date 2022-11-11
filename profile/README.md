@@ -40,4 +40,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 |        🔻 Repo          | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
 | 💻 [X-UI](https://github.com/X-UI-Unofficial/X-UI) | [![X-UI-Core]](https://github.com/X-UI-Unofficial/X-UI/graphs/contributors) |
-| 🌐 [translate](https://github.com/X-UI-Unofficial/translation) | [![X-UI-Translate]](https://github.com/X-UI-Unofficial/translation/graphs/contributors) |
+| 🌐 [Translate](https://github.com/X-UI-Unofficial/translation) | [![X-UI-Translate]](https://github.com/X-UI-Unofficial/translation/graphs/contributors) |
