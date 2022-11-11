@@ -25,7 +25,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**Chasing66**](https://github.com/Chasing66)
 * [**tshipenchko**](https://github.com/tshipenchko)
 * [**awawa42**](https://github.com/awawa42)
-#### Dev Front End
+#### Dev Front End:
 * [**dopaemon**](https://github.com/dopaemon)
 * [**proshir**](https://github.com/proshir)
 #### Dev Shell Script Language:
