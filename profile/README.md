@@ -14,6 +14,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 ```
 ### READ MORE:
 * [**Release**](https://github.com/X-UI-Unofficial/release.git)
+* [**Telegram**](https://t.me/X_UI_Unofficial)
 ### CREDIT - Maintainer ///
 #### Dev X-UI Core:
 * [**hossinasaadi**](https://github.com/hossinasaadi)
