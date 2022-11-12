@@ -12,10 +12,10 @@
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/install.sh) 221112_v9
 ```
-### READ MORE:
+## READ MORE:
 * [**Release**](https://github.com/X-UI-Unofficial/release.git)
 * [**Telegram**](https://t.me/X_UI_Unofficial)
-### CREDIT - Maintainer ///
+## CREDIT - Maintainer ///
 #### Dev X-UI Core:
 * [**hossinasaadi**](https://github.com/hossinasaadi)
 * [**foroughi1380**](https://github.com/foroughi1380)
@@ -44,7 +44,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**Msameim181**](https://github.com/Msameim181)
 * [**vaxilu**](https://github.com/vaxilu)
 * [**dopaemon**](https://github.com/dopaemon)
-### Contributors
+## Contributors
 
 [X-UI-Core]: https://contrib.rocks/image?repo=X-UI-Unofficial/X-UI
 [X-UI-Translate]: https://contrib.rocks/image?repo=X-UI-Unofficial/translation
