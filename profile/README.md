@@ -31,6 +31,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**vaxilu**](https://github.com/vaxilu)
 * [**hossinasaadi**](https://github.com/hossinasaadi)
 * [**proshir**](https://github.com/proshir)
+* [**FranzKafkaYu**](https://github.com/FranzKafkaYu)
+#### Dev Telegram Bot:
+* [**FranzKafkaYu**](https://github.com/FranzKafkaYu)
 #### Dev Xray Core Custom:
 * [**hossinasaadi**](https://github.com/hossinasaadi)
 * [**XTLS Team**](https://github.com/XTLS/Xray-core)
