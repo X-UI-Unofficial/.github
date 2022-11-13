@@ -26,12 +26,14 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**Chasing66**](https://github.com/Chasing66)
 * [**tshipenchko**](https://github.com/tshipenchko)
 * [**awawa42**](https://github.com/awawa42)
+* [**proshir**](https://github.com/proshir)
 #### Dev Front End:
 * [**dopaemon**](https://github.com/dopaemon)
 * [**vaxilu**](https://github.com/vaxilu)
 * [**hossinasaadi**](https://github.com/hossinasaadi)
 * [**proshir**](https://github.com/proshir)
 * [**FranzKafkaYu**](https://github.com/FranzKafkaYu)
+* [**proshir**](https://github.com/proshir)
 #### Dev Telegram Bot:
 * [**FranzKafkaYu**](https://github.com/FranzKafkaYu)
 #### Dev Xray Core Custom:
