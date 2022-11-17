@@ -22,7 +22,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 | :----------------------: | :-------------------: | :--------------------: | :--------------------: | :-----------------------: | :------------------ |
 | [**hossinasaadi**](https://github.com/hossinasaadi) | [**dopaemon**](https://github.com/dopaemon) | [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | [**hossinasaadi**](https://github.com/hossinasaadi) | [**shekhawat2**](https://github.com/shekhawat2) | [**𝔄𝔡𝔯𝔦𝔞𝔫**](https://t.me/greatadrian) |
 | [**foroughi1380**](https://github.com/foroughi1380) | [**vaxilu**](https://github.com/vaxilu) | | [**XTLS Team**](https://github.com/XTLS/Xray-core) | | [**tshipenchko**](https://github.com/tshipenchko) |
-| [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | [**hossinasaadi**](https://github.com/hossinasaadi) | | | |* [**Niduka Akalanka**](https://github.com/NidukaAkalanka)|
+| [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | [**hossinasaadi**](https://github.com/hossinasaadi) | | | | [**Niduka Akalanka**](https://github.com/NidukaAkalanka)|
 | [**vaxilu**](https://github.com/vaxilu) | [**proshir**](https://github.com/proshir) | | | | [**Msameim181**](https://github.com/Msameim181) |
 | [**GSWXXN**](https://github.com/GSWXXN) | [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | | | |[**nosime**](https://github.com/nosime)|
 | [**jukrb0x**](https://github.com/jukrb0x) | [**proshir**](https://github.com/proshir) | | | |[**vaxilu**](https://github.com/vaxilu)|
