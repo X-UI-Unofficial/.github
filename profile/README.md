@@ -35,11 +35,12 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 
 [X-UI-Core]: https://contrib.rocks/image?repo=X-UI-Unofficial/X-UI
 [X-UI-Translate]: https://contrib.rocks/image?repo=X-UI-Unofficial/translation
+[X-UI-Docker]: https://contrib.rocks/image?repo=X-UI-Unofficial/docker
 
 |        🔻 Repo          | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
 | 💻 [X-UI](https://github.com/X-UI-Unofficial/X-UI) | [![X-UI-Core]](https://github.com/X-UI-Unofficial/X-UI/graphs/contributors) |
 | 🌐 [Translate](https://github.com/X-UI-Unofficial/translation) | [![X-UI-Translate]](https://github.com/X-UI-Unofficial/translation/graphs/contributors) |
-| 🐳 [Docker](https://github.com/X-UI-Unofficial/docker) | [![X-UI-Translate]](https://github.com/X-UI-Unofficial/docker/graphs/contributors) |
+| 🐳 [Docker](https://github.com/X-UI-Unofficial/docker) | [![X-UI-Docker]](https://github.com/X-UI-Unofficial/docker/graphs/contributors) |
 
 <b><i>If you can develop and you want to join our github, You can submit a request at [Telegram](https://t.me/KernelPanix), [Facebook](https://fb.me/KernelPanix)</i>
