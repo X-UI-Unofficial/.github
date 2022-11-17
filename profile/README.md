@@ -44,6 +44,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**shekhawat2**](https://github.com/shekhawat2)
 #### Dev X-UI Language:
 * [**𝔄𝔡𝔯𝔦𝔞𝔫**](https://t.me/greatadrian)
+* [**tshipenchko**](https://github.com/tshipenchko)
 * [**Niduka Akalanka**](https://github.com/NidukaAkalanka)
 * [**nosime**](https://github.com/nosime)
 * [**Msameim181**](https://github.com/Msameim181)
