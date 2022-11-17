@@ -17,39 +17,20 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**Release**](https://github.com/X-UI-Unofficial/release.git)
 * [**Telegram**](https://t.me/X_UI_Unofficial)
 ## CREDIT - Maintainer ///
-#### Dev X-UI Core:
-* [**hossinasaadi**](https://github.com/hossinasaadi)
-* [**foroughi1380**](https://github.com/foroughi1380)
-* [**FranzKafkaYu**](https://github.com/FranzKafkaYu)
-* [**vaxilu**](https://github.com/vaxilu)
-* [**GSWXXN**](https://github.com/GSWXXN)
-* [**jukrb0x**](https://github.com/jukrb0x)
-* [**Chasing66**](https://github.com/Chasing66)
-* [**tshipenchko**](https://github.com/tshipenchko)
-* [**awawa42**](https://github.com/awawa42)
-* [**proshir**](https://github.com/proshir)
-#### Dev Front End:
-* [**dopaemon**](https://github.com/dopaemon)
-* [**vaxilu**](https://github.com/vaxilu)
-* [**hossinasaadi**](https://github.com/hossinasaadi)
-* [**proshir**](https://github.com/proshir)
-* [**FranzKafkaYu**](https://github.com/FranzKafkaYu)
-* [**proshir**](https://github.com/proshir)
-#### Dev Telegram Bot:
-* [**FranzKafkaYu**](https://github.com/FranzKafkaYu)
-#### Dev Xray Core Custom:
-* [**hossinasaadi**](https://github.com/hossinasaadi)
-* [**XTLS Team**](https://github.com/XTLS/Xray-core)
-#### Dev Shell Script Language:
-* [**shekhawat2**](https://github.com/shekhawat2)
-#### Dev X-UI Language:
-* [**𝔄𝔡𝔯𝔦𝔞𝔫**](https://t.me/greatadrian)
-* [**tshipenchko**](https://github.com/tshipenchko)
-* [**Niduka Akalanka**](https://github.com/NidukaAkalanka)
-* [**nosime**](https://github.com/nosime)
-* [**Msameim181**](https://github.com/Msameim181)
-* [**vaxilu**](https://github.com/vaxilu)
-* [**dopaemon**](https://github.com/dopaemon)
+
+|      Dev X-UI Core       |      Dev Front End     | Dev Telegram Bot  |  Dev Xray Core Custom  | Dev Shell Script | Dev X-UI Language |
+| :----------------------: | :-------------------: | :--------------------: | :--------------------: | :-----------------------: | :------------------ |
+| [**hossinasaadi**](https://github.com/hossinasaadi) | [**dopaemon**](https://github.com/dopaemon) | [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | [**hossinasaadi**](https://github.com/hossinasaadi) | [**shekhawat2**](https://github.com/shekhawat2) | [**𝔄𝔡𝔯𝔦𝔞𝔫**](https://t.me/greatadrian) |
+| [**foroughi1380**](https://github.com/foroughi1380) | [**vaxilu**](https://github.com/vaxilu) | | [**XTLS Team**](https://github.com/XTLS/Xray-core) | | [**tshipenchko**](https://github.com/tshipenchko) |
+| [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | [**hossinasaadi**](https://github.com/hossinasaadi) | | | |* [**Niduka Akalanka**](https://github.com/NidukaAkalanka)|
+| [**vaxilu**](https://github.com/vaxilu) | [**proshir**](https://github.com/proshir) | | | | [**Msameim181**](https://github.com/Msameim181) |
+| [**GSWXXN**](https://github.com/GSWXXN) | [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | | | |[**nosime**](https://github.com/nosime)|
+| [**jukrb0x**](https://github.com/jukrb0x) | [**proshir**](https://github.com/proshir) | | | |[**vaxilu**](https://github.com/vaxilu)|
+| [**Chasing66**](https://github.com/Chasing66) | | | | |[**dopaemon**](https://github.com/dopaemon)|
+| [**tshipenchko**](https://github.com/tshipenchko) | | | | | |
+| [**awawa42**](https://github.com/awawa42) | | | | | |
+| [**proshir**](https://github.com/proshir) | | | | | |
+
 ## Contributors
 
 [X-UI-Core]: https://contrib.rocks/image?repo=X-UI-Unofficial/X-UI
