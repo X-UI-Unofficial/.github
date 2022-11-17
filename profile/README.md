@@ -1,7 +1,8 @@
 > Info: [This is Official X-UI](https://github.com/vaxilu/x-ui). <br>
 > ---------------------------------------------------------<br>
 > Warning: Blog Misaka and Taffychan Please stop stealing the work of X-UI developers. Humane users, Please DO NOT USE X-UI VERSIONS PROVIDED BY MISAKA, You can also help report X-UI repos stolen by Misaka from [blog misaka](https://github.com/blog-misaka) and [taffychan](https://github.com/taffychan). Thks You Read it.
-
+> ---------------------------------------------------------<br>
+> <code>Developer && Member pls read this:</code> [Development](https://github.com/X-UI-Unofficial/Developement.git)
 # X-UI Unofficial
 
 <img style="height: 100%;" src="https://raw.githubusercontent.com/X-UI-Unofficial/.github/main/banner.png"/>
