@@ -11,7 +11,7 @@
 * **Install:**
 <b> <i> Run this command with <code>sudo -s</code> or <code>sudo -i</code> </i>
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/install.sh) 221117_v4
+bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/install.sh) 221118_v2
 ```
 ## READ MORE:
 * [**Release**](https://github.com/X-UI-Unofficial/release.git)
