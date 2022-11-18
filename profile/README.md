@@ -28,7 +28,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 | [**jukrb0x**](https://github.com/jukrb0x) | [**proshir**](https://github.com/proshir) | | | |[**vaxilu**](https://github.com/vaxilu)|
 | [**Chasing66**](https://github.com/Chasing66) | | | | |[**dopaemon**](https://github.com/dopaemon)|
 | [**tshipenchko**](https://github.com/tshipenchko) | | | | |[**foroughi1380**](https://github.com/foroughi1380)|
-| [**awawa42**](https://github.com/awawa42) | | | | | |
+| [**awawa42**](https://github.com/awawa42) | | | | | [**DTunnel0**](https://github.com/DTunnel0) **-** [**GlEmYsSoN**](https://github.com/DuTra01)
 | [**proshir**](https://github.com/proshir) | | | | | |
 
 ## Contributors
