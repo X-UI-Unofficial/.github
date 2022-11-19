@@ -23,7 +23,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 * [**Telegram**](https://t.me/X_UI_Unofficial)
 ## CREDIT - Maintainer ///
 
-|      Dev X-UI Core       |      Dev Front End     | Dev Telegram Bot  |  Dev Xray Core Custom  | Dev Shell Script | Dev X-UI Language |
+|      X-UI Core       |     Front End     | Telegram Bot  | Xray Core Custom  | Shell Script | X-UI Language |
 | :----------------------: | :-------------------: | :--------------------: | :--------------------: | :-----------------------: | :------------------ |
 | [**hossinasaadi**](https://github.com/hossinasaadi) | [**dopaemon**](https://github.com/dopaemon) | [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | [**hossinasaadi**](https://github.com/hossinasaadi) | [**shekhawat2**](https://github.com/shekhawat2) | [**𝔄𝔡𝔯𝔦𝔞𝔫**](https://t.me/greatadrian) |
 | [**foroughi1380**](https://github.com/foroughi1380) | [**vaxilu**](https://github.com/vaxilu) | | [**XTLS Team**](https://github.com/XTLS/Xray-core) | | [**tshipenchko**](https://github.com/tshipenchko) |
