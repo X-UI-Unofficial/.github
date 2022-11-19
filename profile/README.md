@@ -8,8 +8,13 @@
 <img style="height: 100%;" src="https://raw.githubusercontent.com/X-UI-Unofficial/.github/main/banner.png"/>
 
 ## Hello World
-* **Install:**
-<b> <i> Run this command with <code>sudo -s</code> or <code>sudo -i</code> </i>
+### **Install:**
+
+* **Docker Install**
+<br> <b> <i> <code> Read README.md from</code> [**Docker**](https://github.com/X-UI-Unofficial/docker)
+
+* **Direct Install**
+<br> <b> <i> Run this command with <code>sudo -s</code> or <code>sudo -i</code> </i>
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/install.sh) 221118_v5
 ```
