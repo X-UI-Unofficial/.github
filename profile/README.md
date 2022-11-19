@@ -11,7 +11,7 @@
 ### **Install:**
 
 * **Docker Install**
-<br> <b> <i> <code> Read README.md from</code> [**Docker**](https://github.com/X-UI-Unofficial/docker)
+<br> <b> <i> <code> Read README.md from</code> [**Docker**](https://github.com/X-UI-Unofficial/docker) </i>
 
 * **Direct Install**
 <br> <b> <i> Run this command with <code>sudo -s</code> or <code>sudo -i</code> </i>
