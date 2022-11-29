@@ -31,10 +31,14 @@ bash <(curl -Ls https://raw.githubusercontent.com/X-UI-Unofficial/release/main/i
 | [**vaxilu**](https://github.com/vaxilu) | [**proshir**](https://github.com/proshir) | | | | [**Msameim181**](https://github.com/Msameim181) |
 | [**GSWXXN**](https://github.com/GSWXXN) | [**FranzKafkaYu**](https://github.com/FranzKafkaYu) | | | |[**nosime**](https://github.com/nosime)|
 | [**jukrb0x**](https://github.com/jukrb0x) | [**proshir**](https://github.com/proshir) | | | |[**vaxilu**](https://github.com/vaxilu)|
-| [**Chasing66**](https://github.com/Chasing66) | | | | |[**dopaemon**](https://github.com/dopaemon)|
-| [**tshipenchko**](https://github.com/tshipenchko) | | | | |[**foroughi1380**](https://github.com/foroughi1380)|
-| [**awawa42**](https://github.com/awawa42) | | | | | [**DTunnel0**](https://github.com/DTunnel0) **-** [**GlEmYsSoN**](https://github.com/DuTra01)
-| [**proshir**](https://github.com/proshir) | | | | | [**ytpk**](https://github.com/ytpk) |
+| [**Chasing66**](https://github.com/Chasing66) | [**Nader-abdi**](https://github.com/Nader-abdi) | | | |[**dopaemon**](https://github.com/dopaemon)|
+| [**tshipenchko**](https://github.com/tshipenchko) | [**rezaUniqe**](https://github.com/rezaUniqe) | | | |[**foroughi1380**](https://github.com/foroughi1380)|
+| [**awawa42**](https://github.com/awawa42) | [**amir215909**](https://github.com/amir215909) | | | | [**DTunnel0**](https://github.com/DTunnel0) **-** [**GlEmYsSoN**](https://github.com/DuTra01)
+| [**proshir**](https://github.com/proshir) | [**rgo**](https://google.com) | | | | [**ytpk**](https://github.com/ytpk) |
+| [**Nader-abdi**](https://github.com/Nader-abdi) | | | | | |
+| [**rezaUniqe**](https://github.com/rezaUniqe) | | | | | |
+| [**amir215909**](https://github.com/amir215909) | | | | | |
+| [**rgo**](https://google.com) | | | | | |
 
 ## Contributors
 
